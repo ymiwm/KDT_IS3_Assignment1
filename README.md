@@ -88,7 +88,7 @@ DB: MySQL
 ---
 
 #### 8. GET to POST
-*.php 파일에서 GET을 POST로 바꿈으로 Method 변경 가능
+- *.php 파일에서 GET을 POST로 바꿈으로 Method 변경 가능
 
 --- 
 
@@ -97,4 +97,4 @@ DB: MySQL
 
 ---
 
-[*Go to top* ↑](#overview)
+[*Go to top* ↑](#k-digital-training-information-security-3rd-assignment-1)
