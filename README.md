@@ -80,13 +80,17 @@ DB: MySQL
 ---
 
 #### 7. Database
-![](/img/database/DB%20Table.png)
-![](/img/database/Check%20Tuple(Empty).png)
-![](/img/database/DB%20Add%201.png)
+![DB Table](/img/database/DB%20Table.png)
+![DB Tuple(Empty)](/img/database/Check%20Tuple(Empty).png)
+![DB Add 1](/img/database/DB%20Add%201.png)
 
 ---
 
 #### 8. *Ref Links*  
 - https://wikidocs.net/116977
 
-<a href="#k-digital-training-information-security-3rd-assignment-1"><div style="text-align: right">*Go to top* ↑</div></a>
+<div style="text-align: right">
+    <a href="#k-digital-training-information-security-3rd-assignment-1">
+    *Go to top* ↑
+    </a>
+</div>
