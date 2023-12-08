@@ -19,7 +19,8 @@ DB: MySQL
 [5. Sign Up Failed](#5-sign-up-failed)  
 [6. Sign Out](#6-sign-out)  
 [7. Database](#7-database)  
-[8. Ref Links](#8-ref-links)
+[8. GET to POST](#8-get-to-post)  
+[9. Ref Links](#8-ref-links)
 
 ---
 
@@ -86,7 +87,12 @@ DB: MySQL
 
 ---
 
-#### 8. *Ref Links*  
+#### 8. GET to POST
+*.php 파일에서 GET을 POST로 바꿈으로 Method 변경 가능
+
+--- 
+
+#### 9. *Ref Links*  
 - https://wikidocs.net/116977
 
 ---
