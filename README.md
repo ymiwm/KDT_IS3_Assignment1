@@ -24,7 +24,7 @@ DB: MySQL
 ---
 
 #### 1. Source Code Link
-[Github - KDT_IS3_Assignment1](https://github.com/ymiwm/KDT_IS3_Assignment1)
+[Link - KDT_IS3_Assignment1](https://github.com/ymiwm/KDT_IS3_Assignment1)
 ![Index](/img/indexmain/Index.png)
 
 ---
@@ -89,8 +89,6 @@ DB: MySQL
 #### 8. *Ref Links*  
 - https://wikidocs.net/116977
 
-<div style="text-align: right">
-    <a href="#k-digital-training-information-security-3rd-assignment-1">
-    *Go to top* ↑
-    </a>
-</div>
+---
+
+[*Go to top* ↑](#overview)
